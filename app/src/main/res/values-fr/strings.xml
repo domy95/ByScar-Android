@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">byScar</string>
+    <string name="NoActivar">Fermer</string>
+    <string name="SegurSortirByScar">Bien sûr, vous voulez cesser de fumer?</string>
+    <string name="SortirByScar">Fermeture byScar...</string>
+    <string name="cancelar">Annuler</string>
+    <string name="connexio_establerta">La connexion a été établie correctement</string>
+    <string name="el_bluetooth_es_necessari">Le bluetooth est nécessaire de lier la voiture, vous voulez activer le bluetooth ou fermer l\'application?</string>
+    <string name="el_dispositiu_no_soporta_bluetooth">Ce dispositif ne prend pas en charge bluetooth</string>
+    <string name="ha_fallat_la_connexio">La connexion a échoué</string>
+    <string name="la_cracio_del_socket_ha_fallat">Socket création a échoué</string>
+    <string name="llista_dispositius">Liste des appareils associés</string>
+    <string name="no_es_el_dispositiu">Ce n\'est pas le bon appareil, essayez un autre appareil.</string>
+    <string name="no_has_activat_el_bluetooth">Vous ne l\'avez pas activé le bluetooth</string>
+    <string name="none_paired">Aucun dispositif pourrait être adapté</string>
+    <string name="sortir">Quitter</string>
+    <string name="Activar">Activer</string>
+    <string name="action_about">À propos de ...</string>
+    <string name="tel">Tél.:</string>
+    <string name="web">Toile:</string>
+    <string name="deviceListTitle">Liste des périphériques</string>
+    <string name="desactivat">Désactivé</string>
+    <string name="desa">ENREGISTRER</string>
+    <string name="connecting">RACCORDEMENT ...</string>
+    <string name="config_title_mode">À l\'aide des boutons</string>
+    <string name="config_description_mode">Possibilité de modifier le mode d\'utilisation de la voiture.</string>
+    <string name="activat">Activé</string>
+    <string name="action_settings">Réglages</string>
+    <string name="idioma_escull">Choisissez la langue que vous voulez.</string>
+    <string name="idioma">Langue</string>
+</resources>

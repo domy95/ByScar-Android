@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">byScar</string>
+    <string name="sortir">Salir</string>
+    <string name="none_paired">Ningún dispositivo pudo ser emparejado</string>
+    <string name="no_has_activat_el_bluetooth">No ha activado el bluetooth</string>
+    <string name="no_es_el_dispositiu">Éste no és el dispositivo correcto, pruebe con otro dispositivo.</string>
+    <string name="llista_dispositius">Lista de dispositivos vinculados</string>
+    <string name="la_cracio_del_socket_ha_fallat">La creación del socket ha fallado</string>
+    <string name="ha_fallat_la_connexio">Ha fallado la conexión</string>
+    <string name="el_dispositiu_no_soporta_bluetooth">Éste dispositivo no soporta bluetooth</string>
+    <string name="el_bluetooth_es_necessari">El bluetooth es necesario para vincular el coche, quiere activar el bluetooth o cerrar la aplicacion?</string>
+    <string name="connexio_establerta">Se ha establecido la conexión correctamente</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="SortirByScar">Cerrando byScar...</string>
+    <string name="SegurSortirByScar">Seguro que quiere salir?</string>
+    <string name="NoActivar">Cerrar</string>
+    <string name="Activar">Activar</string>
+    <string name="action_about">Acerca de ...</string>
+    <string name="tel">Tel.:</string>
+    <string name="web">Web:</string>
+    <string name="deviceListTitle">Lista de dispositivos</string>
+    <string name="desactivat">Desactivado</string>
+    <string name="desa">GUARDAR</string>
+    <string name="connecting">CONECTANDO ...</string>
+    <string name="config_title_mode">Utilizar botones</string>
+    <string name="config_description_mode">Opción para cambiar el modo de utilización del coche.</string>
+    <string name="activat">Activado</string>
+    <string name="action_settings">Configuración</string>
+    <string name="idioma_escull">Escoja el idioma que quiera.</string>
+    <string name="idioma">Idioma</string>
+</resources>

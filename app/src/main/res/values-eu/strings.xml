@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">byScar</string>
+    <string name="Activar">Aktibatu</string>
+    <string name="NoActivar">Itxi</string>
+    <string name="SegurSortirByScar">Ziur zaude irten nahi duzula?</string>
+    <string name="SortirByScar">Ixten byScar...</string>
+    <string name="cancelar">Utzi</string>
+    <string name="connexio_establerta">Konexioa behar bezala ezarri da</string>
+    <string name="el_bluetooth_es_necessari">Bluetooth-beharrezkoa da autoan lotzeko, bluetooth aktibatzeko edo aplikazioa itxi nahi duzula?</string>
+    <string name="el_dispositiu_no_soporta_bluetooth">Gailu honek ez du onartzen bluetooth</string>
+    <string name="ha_fallat_la_connexio">Konexioak huts egin du</string>
+    <string name="la_cracio_del_socket_ha_fallat">Sortzea socket huts</string>
+    <string name="llista_dispositius">Parekatutako gailu zerrenda</string>
+    <string name="no_es_el_dispositiu">Hau ez da, eskuineko gailua, saiatu beste gailu bat.</string>
+    <string name="no_has_activat_el_bluetooth">Ez duzu Jaione bluetooth du</string>
+    <string name="none_paired">Ez dago gailu parekatuak litezke</string>
+    <string name="sortir">Irten</string>
+    <string name="action_about">Buruz ...</string>
+    <string name="tel">Tel.:</string>
+    <string name="web">Web:</string>
+    <string name="deviceListTitle">Gailu zerrenda</string>
+    <string name="desactivat">Ezgaituko</string>
+    <string name="desa">GORDE</string>
+    <string name="connecting">KONEKTATZEN ...</string>
+    <string name="config_title_mode">Botoiak erabiliz</string>
+    <string name="config_description_mode">Aukera autoaren erabilera-modua aldatzeko.</string>
+    <string name="activat">Jaione</string>
+    <string name="action_settings">Ezarpenak</string>
+    <string name="idioma_escull">Aukeratu nahi duzun hizkuntza.</string>
+    <string name="idioma">Hizkuntza</string>
+</resources>

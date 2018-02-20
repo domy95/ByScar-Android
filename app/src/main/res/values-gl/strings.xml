@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">byScar</string>
+    <string name="Activar">Activar</string>
+    <string name="NoActivar">Preto</string>
+    <string name="SegurSortirByScar">Seguro de querer saír?</string>
+    <string name="SortirByScar">Peche byScar...</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="connexio_establerta">A conexión foi establecida correctamente</string>
+    <string name="el_bluetooth_es_necessari">O Bluetooth é necesario conectar o coche, quere activar o Bluetooth ou pechar a aplicación?</string>
+    <string name="el_dispositiu_no_soporta_bluetooth">Este dispositivo non soporta Bluetooth</string>
+    <string name="ha_fallat_la_connexio">A conexión fallou</string>
+    <string name="la_cracio_del_socket_ha_fallat">Creación soquete fallou</string>
+    <string name="llista_dispositius">Lista de dispositivos vinculados</string>
+    <string name="no_es_el_dispositiu">Este non é o dispositivo correcto, proba outro dispositivo.</string>
+    <string name="no_has_activat_el_bluetooth">Non activou o Bluetooth</string>
+    <string name="none_paired">Ningún dispositivo podería ser compensada</string>
+    <string name="sortir">Saída</string>
+    <string name="action_about">Sobre ...</string>
+    <string name="tel">Tel.:</string>
+    <string name="web">Tea:</string>
+    <string name="deviceListTitle">Lista de dispositivos</string>
+    <string name="desactivat">Desactivado</string>
+    <string name="desa">GARDAR</string>
+    <string name="connecting">CONEXIÓN ...</string>
+    <string name="config_title_mode">Utilizando os botóns</string>
+    <string name="config_description_mode">Opción para cambiar o modo de uso do coche.</string>
+    <string name="activat">Activado</string>
+    <string name="action_settings">Configuración</string>
+    <string name="idioma_escull">Escolla o idioma desexado.</string>
+    <string name="idioma">Idioma</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">byScar</string>
+    <string name="llista_dispositius">Llista de dispositius vinculats</string>
+    <string name="el_dispositiu_no_soporta_bluetooth">Aquest dispositiu no soporta bluetooth</string>
+    <string name="NoActivar">Tanca</string>
+    <string name="Activar">Activa</string>
+    <string name="no_has_activat_el_bluetooth">No ha activat el bluetooth</string>
+    <string name="el_bluetooth_es_necessari">El bluetooth és necessari per a vincular el cotxe, vol activar el bluetooth o tancar l\'aplicació?</string>
+    <string name="no_es_el_dispositiu">Aquest no és el dispositiu correcte, prova amb un altre dispositiu.</string>
+    <string name="la_cracio_del_socket_ha_fallat">La creació del socket ha fallat</string>
+    <string name="connexio_establerta">S\'ha establert la connexió correctament</string>
+    <string name="ha_fallat_la_connexio">Ha fallat la connexió</string>
+    <string name="action_about">Sobre...</string>
+    <string name="tel">Tel.: </string>
+    <string name="web">Web: </string>
+    <string name="action_settings">Configuració</string>
+    <string name="deviceListTitle">Llista de dispositius</string>
+    <string name="desa">DESA</string>
+    <string name="idioma">Idioma</string>
+    <string name="idioma_escull">Esculli l\'idioma que volgui.</string>
+
+    <!--DIALEG PER A SORTIR DE L'APP-->
+    <string name="SortirByScar">Tancant byScar...</string>
+    <string name="SegurSortirByScar">Segur que vol sortir?</string>
+    <string name="sortir">Surt</string>
+    <string name="cancelar">Cancel·la</string>
+    <string name="none_paired">Ningún dispositivo pudo ser emparejado</string>
+
+    <!--CONNEXIÓ-->
+    <string name="connecting">CONNECTANT...</string>
+
+    <!--CONFIGURATION-->
+    <string name="config_title_mode">Utilitzar botons</string>
+    <string name="config_description_mode">Opció per a canviar el mode d\'utilització del cotxe.</string>
+    <string name="desactivat">Desactivat</string>
+    <string name="activat">Activat</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">byScar</string>
+    <string name="Activar">Ativar</string>
+    <string name="NoActivar">Fechar</string>
+    <string name="SegurSortirByScar">Certeza de que deseja sair?</string>
+    <string name="SortirByScar">Fechando byScar...</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="connexio_establerta">A conexão foi estabelecida corretamente</string>
+    <string name="el_bluetooth_es_necessari">O bluetooth é necessário ligar o carro, você quer ativar o bluetooth ou fechar o aplicativo?</string>
+    <string name="el_dispositiu_no_soporta_bluetooth">Este dispositivo não suporta Bluetooth</string>
+    <string name="ha_fallat_la_connexio">A conexão falhou</string>
+    <string name="la_cracio_del_socket_ha_fallat">Criação de soquete falhou</string>
+    <string name="llista_dispositius">Lista de dispositivos emparelhados</string>
+    <string name="no_es_el_dispositiu">Este não é o dispositivo certo, tente outro dispositivo.</string>
+    <string name="no_has_activat_el_bluetooth">Você não ativou o bluetooth</string>
+    <string name="none_paired">Nenhum dispositivo poderia ser compensada</string>
+    <string name="sortir">Saída</string>
+    <string name="action_about">Sobre ...</string>
+    <string name="tel">Tel.:</string>
+    <string name="web">Teia:</string>
+    <string name="deviceListTitle">Lista de dispositivos</string>
+    <string name="desactivat">Desactivado</string>
+    <string name="desa">SALVAR</string>
+    <string name="connecting">CONEXÃO ...</string>
+    <string name="config_title_mode">Utilizando os botões</string>
+    <string name="config_description_mode">Opção para alterar o modo de uso do carro.</string>
+    <string name="activat">Ativado</string>
+    <string name="action_settings">Configurações</string>
+    <string name="idioma_escull">Escolha o idioma desejado.</string>
+    <string name="idioma">Idioma</string>
+</resources>
